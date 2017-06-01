@@ -26,3 +26,7 @@ h1 {
 h2 {
   font-siez: 42px;
 }
+
+footer {
+  text-align: right;
+}
